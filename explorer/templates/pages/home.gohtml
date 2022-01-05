@@ -6,7 +6,7 @@
     {{template "header" .PageTitle}}
     <main>
         {{range .Blocks}}
-        {{template "block"}}
+        {{template "block" .}}
         {{end}}
     </main>
     {{template "footer"}}
