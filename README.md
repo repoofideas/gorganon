@@ -21,3 +21,7 @@ Wallet: TODO
 P2P: TODO
 
 Proof of Stake: TODO
+
+
+
+Project inspired by Nomadcoin and Gochain, check them out!
