@@ -10,6 +10,8 @@ CLI: Ongoing
 
 Proof of Work: Ongoing
 
+Mining: TODO
+
 Transaction: TODO
 
 Wallet: TODO
