@@ -24,4 +24,4 @@ Proof of Stake: TODO
 
 
 
-Project inspired by Nomadcoin and Gochain, check them out!
+This project inspired by Nomadcoin and Gochain, check them out!
